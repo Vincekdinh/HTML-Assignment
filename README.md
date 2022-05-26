@@ -1,2 +1,2 @@
 # HTML-Assignment
-Create a mockup Sign Up page
+Create a Sign Up page from a mockup
